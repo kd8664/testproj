@@ -1,0 +1,17 @@
+{
+    "name": "k.dzhetpisov/testproj",
+    "description": "test package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Dzhetpisov Kirill",
+            "email": "k.dzhetpisov@etpgpb.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
